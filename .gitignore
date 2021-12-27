@@ -1454,3 +1454,5 @@ hs_err_pid*
 .project
 .buildlog
 
+./web
+./ios
